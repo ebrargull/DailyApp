@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct SettingsScreen: View {
-    
+    //deneme 123
     @EnvironmentObject var settings: SettingsViewModel
     @EnvironmentObject var dialogAlertViewModel: DialogAlertViewModel
     
