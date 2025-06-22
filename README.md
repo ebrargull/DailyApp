@@ -44,13 +44,13 @@ The app also includes features like theme customization and feedback submission 
 ## 🖼️ Ekran Görüntüleri / Screenshots
 
 <p align="center">
-  <img src="Screenshots/1.jpeg" width="250"/>
-  <img src="Screenshots/FotoğrafEkle.jpeg" width="250"/>
-  <img src="Screenshots/Görüntü 27.06.2024 14.01 (1).jpg" width="250"/>
-  <img src="Screenshots/GünlükEkle.jpeg" width="250"/>
-  <img src="Screenshots/TarihSeç.jpeg" width="250"/>
-  <img src="Screenshots/Tema.jpeg" width="250"/>
-  <img src="Screenshots/list.jpeg" width="250"/>
+  <img src="Screenshots/1.jpeg" width="300"/>
+  <img src="Screenshots/2.jpeg" width="300"/>
+  <img src="Screenshots/3.jpg" width="300"/>
+  <img src="Screenshots/4.jpeg" width="300"/>
+  <img src="Screenshots/5.jpeg" width="300"/>
+  <img src="Screenshots/Tema.jpeg" width="300"/>
+  <img src="Screenshots/list.jpeg" width="300"/>
 </p>
 
 ---
