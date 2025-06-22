@@ -46,7 +46,7 @@ The app also includes features like theme customization and feedback submission 
 <p align="center">
   <img src="Screenshots/1.jpeg" width="300"/>
   <img src="Screenshots/2.jpeg" width="300"/>
-  <img src="Screenshots/3.jpg" width="300"/>
+  <img src="Screenshots/3.jpg" width="265"/>
   <img src="Screenshots/4.jpeg" width="300"/>
   <img src="Screenshots/5.jpeg" width="300"/>
   <img src="Screenshots/Tema.jpeg" width="300"/>
