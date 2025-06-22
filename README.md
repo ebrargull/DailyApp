@@ -40,6 +40,21 @@ The app also includes features like theme customization and feedback submission 
 
 ---
 
+
+## 🖼️ Ekran Görüntüleri / Screenshots
+
+<p align="center">
+  <img src="Screenshots/1.jpeg" width="250"/>
+  <img src="Screenshots/FotoğrafEkle.jpeg" width="250"/>
+  <img src="Screenshots/Görüntü 27.06.2024 14.01 (1).jpg" width="250"/>
+  <img src="Screenshots/GünlükEkle.jpeg" width="250"/>
+  <img src="Screenshots/TarihSeç.jpeg" width="250"/>
+  <img src="Screenshots/Tema.jpeg" width="250"/>
+  <img src="Screenshots/list.jpeg" width="250"/>
+</p>
+
+---
+
 ## 🔧 Nasıl Çalıştırılır / How to Run
 
 ```bash
@@ -47,3 +62,5 @@ The app also includes features like theme customization and feedback submission 
 2. `.xcodeproj` dosyasını Xcode ile açın / Open the `.xcodeproj` file in Xcode
 3. iOS 16+ destekli gerçek cihazda veya simülatörde çalıştırın / Run on a simulator or real iOS device (iOS 16+)
 4. Gerekirse Firebase yapılandırmasını tamamlayın / Configure your Firebase project if needed
+
+
